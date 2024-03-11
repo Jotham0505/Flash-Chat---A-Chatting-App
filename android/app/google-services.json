@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "944863011897",
+    "project_id": "flash-chat-9502f",
+    "storage_bucket": "flash-chat-9502f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944863011897:android:34a7b8ebd58ab5958e19e8",
+        "android_client_info": {
+          "package_name": "com.example.flash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnCvCxLZB2Dy1upTa9X_ZQGG7wf2Q1Uvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944863011897:android:497e079e311867e38e19e8",
+        "android_client_info": {
+          "package_name": "com.jotham.flash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnCvCxLZB2Dy1upTa9X_ZQGG7wf2Q1Uvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944863011897:android:16bf5f8155f317b28e19e8",
+        "android_client_info": {
+          "package_name": "com.jotham.flashhhh_chatttt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnCvCxLZB2Dy1upTa9X_ZQGG7wf2Q1Uvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
